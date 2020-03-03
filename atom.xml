@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.zhwei.cn/"/>
-  <updated>2020-03-03T05:49:50.537Z</updated>
+  <updated>2020-03-03T06:00:25.253Z</updated>
   <id>https://www.zhwei.cn/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>测试front mate</title>
+    <title>测试专用</title>
     <link href="https://www.zhwei.cn/cgtvuu/"/>
     <id>https://www.zhwei.cn/cgtvuu/</id>
     <published>2020-03-03T05:47:35.000Z</published>
-    <updated>2020-03-03T05:49:50.537Z</updated>
+    <updated>2020-03-03T06:00:25.253Z</updated>
     
     <summary type="html">
     
@@ -29,7 +29,8 @@
       
         
         
-          &lt;p&gt;title: Hexo: 测试front mate&lt;br&gt;author: hongwei&lt;br&gt;top: true&lt;br&gt;cover: false&lt;br&gt;coverImg: /medias/featureimages/13.jpg&lt;br&gt;toc:
+          &lt;hr&gt;
+&lt;p&gt;title: Hexo: 语雀云端写作 Github Actions 持续集成&lt;br&gt;author: hongwei&lt;br&gt;top: true&lt;br&gt;cover: false&lt;br&gt;coverImg:
         
       
     
@@ -44,7 +45,7 @@
     <link href="https://www.zhwei.cn/vp8b5v/"/>
     <id>https://www.zhwei.cn/vp8b5v/</id>
     <published>2020-03-02T17:44:24.000Z</published>
-    <updated>2020-03-03T05:49:50.541Z</updated>
+    <updated>2020-03-03T06:00:25.257Z</updated>
     
     <summary type="html">
     
@@ -59,7 +60,7 @@
     <link href="https://www.zhwei.cn/Valine-Admin-Gravatar/"/>
     <id>https://www.zhwei.cn/Valine-Admin-Gravatar/</id>
     <published>2020-03-02T15:05:22.000Z</published>
-    <updated>2020-03-03T05:49:50.541Z</updated>
+    <updated>2020-03-03T06:00:25.261Z</updated>
     
     <summary type="html">
     
