@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.zhwei.cn/"/>
-  <updated>2020-03-03T06:00:25.253Z</updated>
+  <updated>2020-03-03T06:07:56.679Z</updated>
   <id>https://www.zhwei.cn/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>测试专用</title>
-    <link href="https://www.zhwei.cn/cgtvuu/"/>
-    <id>https://www.zhwei.cn/cgtvuu/</id>
-    <published>2020-03-03T05:47:35.000Z</published>
-    <updated>2020-03-03T06:00:25.253Z</updated>
+    <title>Hexo测试</title>
+    <link href="https://www.zhwei.cn/hexo-github-actions-yuque/"/>
+    <id>https://www.zhwei.cn/hexo-github-actions-yuque/</id>
+    <published>2020-03-12T15:15:33.000Z</published>
+    <updated>2020-03-03T06:07:56.679Z</updated>
     
     <summary type="html">
     
@@ -29,14 +29,26 @@
       
         
         
-          &lt;hr&gt;
-&lt;p&gt;title: Hexo: 语雀云端写作 Github Actions 持续集成&lt;br&gt;author: hongwei&lt;br&gt;top: true&lt;br&gt;cover: false&lt;br&gt;coverImg:
+          &lt;p&gt;啊十大科技has&lt;br /&gt;阿斯顿&lt;br&gt;&lt;a name=&quot;09cFO&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;阿斯顿啊&quot;&gt;&lt;a href=&quot;#阿斯顿啊&quot; class=&quot;headerlink&quot;
         
       
     
     </summary>
     
     
+      <category term="Hexo" scheme="https://www.zhwei.cn/categories/Hexo/"/>
+    
+    
+      <category term="Github Actions" scheme="https://www.zhwei.cn/tags/Github-Actions/"/>
+    
+      <category term="持续集成" scheme="https://www.zhwei.cn/tags/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90/"/>
+    
+      <category term="语雀" scheme="https://www.zhwei.cn/tags/%E8%AF%AD%E9%9B%80/"/>
+    
+      <category term="Hexo" scheme="https://www.zhwei.cn/tags/Hexo/"/>
+    
+      <category term="CI/CD" scheme="https://www.zhwei.cn/tags/CI-CD/"/>
     
   </entry>
   
@@ -45,7 +57,7 @@
     <link href="https://www.zhwei.cn/vp8b5v/"/>
     <id>https://www.zhwei.cn/vp8b5v/</id>
     <published>2020-03-02T17:44:24.000Z</published>
-    <updated>2020-03-03T06:00:25.257Z</updated>
+    <updated>2020-03-03T06:07:56.683Z</updated>
     
     <summary type="html">
     
@@ -60,7 +72,7 @@
     <link href="https://www.zhwei.cn/Valine-Admin-Gravatar/"/>
     <id>https://www.zhwei.cn/Valine-Admin-Gravatar/</id>
     <published>2020-03-02T15:05:22.000Z</published>
-    <updated>2020-03-03T06:00:25.261Z</updated>
+    <updated>2020-03-03T06:07:56.683Z</updated>
     
     <summary type="html">
     
