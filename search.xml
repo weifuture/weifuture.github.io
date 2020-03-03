@@ -50,6 +50,39 @@
     
     
     <entry>
+      <title>front</title>
+      <link href="/Valine-Admin-Gravatar/"/>
+      <url>/Valine-Admin-Gravatar/</url>
+      
+        <content type="html"><![CDATA[<p><a name="Valine"></a></p><h1 id="Valine"><a href="#Valine" class="headerlink" title="Valine"></a>Valine</h1><p><img src="https://cdn.nlark.com/yuque/0/2020/png/373062/1583216450941-b6fb4709-5193-45c4-bcab-27f3195b6efa.png#align=left&display=inline&height=645&name=G6.png&originHeight=645&originWidth=1091&size=48394&status=done&style=none&width=1091" alt="G6.png"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 技术积累 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> ValineAdmin- </tag>
+            
+            <tag> Valine-Admin </tag>
+            
+            <tag> Leancloud </tag>
+            
+            <tag> 评论系统 </tag>
+            
+            <tag> Gravatar </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>配合 Valine 评论系统使用的 Valine-Admin 及显示个性头像</title>
       <link href="/Valine-Admin-Gravatar/"/>
       <url>/Valine-Admin-Gravatar/</url>
