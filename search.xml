@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>测试front mate</title>
+      <link href="/cgtvuu/"/>
+      <url>/cgtvuu/</url>
+      
+        <content type="html"><![CDATA[<p>title: Hexo: 测试front mate<br>author: hongwei<br>top: true<br>cover: false<br>coverImg: /medias/featureimages/13.jpg<br>toc: true<br>mathjax: false<br>summary: Hexo实现云端写作，自动部署，采用Github Actions进行持续集成和语雀进行云端写作。<br>categories:</p><ul><li>Hexo</li></ul><p>tags:</p><ul><li>hexo</li><li>Github Actions</li><li>语雀</li><li>持续集成</li><li>CI/CD</li></ul><p>urlname: Valine-Admin-Gravatar<br>date: 2020-03-02 23:05:22<br>img:<br>password:<br>updated:</p><hr>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>测试</title>
       <link href="/vp8b5v/"/>
       <url>/vp8b5v/</url>
